@@ -1,0 +1,15 @@
+{
+  "name": "desafios-qa-engineer",
+  "version": "1.0.0",
+  "description": "Aqui estão os desafios para a primeira fase de testes de candidatos da IDwall para a vaga de Analista/Engenheiro de Qualidade de Software.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.2.0"
+  }
+}
